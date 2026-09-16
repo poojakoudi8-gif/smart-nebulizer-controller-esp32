@@ -63,3 +63,4 @@ The system uses sensors to collect required readings and displays the informatio
        |    OLED Display      |
        |   Sensor Readings    |
        +----------------------+
+ 
